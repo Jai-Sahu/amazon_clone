@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url(amazon_logo.png);
+    background-image: url(https://github.com/Jai-Sahu/amazon_clone/blob/main/resource/amazon_logo.png?raw=true);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -139,7 +139,7 @@ span {
 
 /* hero section */
 .hero-section {
-    background-image: url(hero_image.jpg);
+    background-image: url(https://github.com/Jai-Sahu/amazon_clone/blob/main/resource/hero_image.jpg?raw=true);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -244,7 +244,7 @@ ul a {
 }
 
 .logo {
-    background-image: url(amazon_logo.png);
+    background-image: url(https://github.com/Jai-Sahu/amazon_clone/blob/main/resource/amazon_logo.png?raw=true);
     background-size: cover;
     height: 50px;
     width: 100%;
