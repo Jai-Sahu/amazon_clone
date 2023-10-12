@@ -140,7 +140,7 @@ span {
 
 /* hero section */
 .hero-section {
-    background-image: url('https://github.com/Jai-Sahu/amazon_clone/blob/main/resource/hero_image.jpg?raw=true');
+    background-image: url("https://github.com/Jai-Sahu/amazon_clone/blob/main/resource/hero_image.jpg?raw=true");
     background-size: cover;
     height: 350px;
     display: flex;
